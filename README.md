@@ -59,7 +59,7 @@ const keyword indicates that the value is a constet
 
 - arryas functions
 
-and many more
+
 ![Logo](https://th.bing.com/th/id/OIP.13Bl6_v-1FgaH2Xui3Fs-wHaHa?w=195&h=195&c=7&r=0&o=5&pid=1.7)
 ## what is premitive
 
